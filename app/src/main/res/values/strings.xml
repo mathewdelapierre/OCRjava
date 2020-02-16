@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OCRjava</string>
+    <string name="txt_message">No Text Available</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="scan">Scan</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
